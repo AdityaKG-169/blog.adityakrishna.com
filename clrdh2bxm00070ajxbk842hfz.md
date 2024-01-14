@@ -3,7 +3,7 @@ title: "Vector Embeddings: A Deep Dive into Their Meaning, Mechanics, and Impact
 seoDescription: "In this blog post, we'll unravel the essence of vector embeddings, exploring what they are, how they work and their significance in today's AI applications."
 datePublished: Sun Jan 14 2024 12:28:11 GMT+0000 (Coordinated Universal Time)
 cuid: clrdh2bxm00070ajxbk842hfz
-slug: vector-embeddings-a-deep-dive-into-their-meaning-mechanics-and-impact
+slug: vector-embeddings
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705223225772/cdbf4a31-a636-4c2f-9c5b-057bd99f66f0.png
 tags: ai, vectorsearch, vector-similarity, vector-embeddings
 
